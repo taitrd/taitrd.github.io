@@ -1,1 +1,1 @@
-(taitrd)[https://taitrd.com]
+[taitrd](https://taitrd.com)
