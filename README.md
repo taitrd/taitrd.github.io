@@ -1,1 +1,1 @@
-taitrd.github.io
+(taitrd)[https://taitrd.com]
